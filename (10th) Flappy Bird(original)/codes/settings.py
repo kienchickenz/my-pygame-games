@@ -1,0 +1,6 @@
+WINDOW_WIDTH,WINDOW_HEIGHT = 394,700
+
+LAYERS = {
+	"Main": 1,
+	"Ground": 3
+}
