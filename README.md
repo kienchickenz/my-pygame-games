@@ -23,18 +23,19 @@ With no defined limits on the number or themes of games, this is an ever-growing
 
 Python is a popular programming language that can be installed on various operating systems. Here are the steps to install Python on your machine:
 
-Windows
+*Windows*
 1. Visit the official Python website at https://www.python.org/downloads/windows/.
 2. Download the latest version of Python by selecting the appropriate installer.
 3. Run the installer and follow the on-screen instructions.
 4. Make sure to select the option to add Python to your system's PATH during the installation process.
 
-macOS
+*macOS*
 1. Visit the official Python website at https://www.python.org/downloads/mac-osx/.
 2. Download the latest version of Python by selecting the appropriate installer.
 3. Run the installer and follow the on-screen instructions.
 
-Linux
+*Linux*
+
 Python is usually pre-installed on most Linux distributions. However, if you need to install or update Python, you can use your distribution's package manager. For example, on Ubuntu, you can use the following command:
 ```bash
 sudo apt-get update
@@ -51,14 +52,14 @@ This will display the version of Python installed on your system.
 
 Pygame is a popular library for developing games and multimedia applications using Python. After installing Python, you can install Pygame by following these steps:
 
-Windows
+*Windows*
 1. Open the command prompt by searching for "cmd" in the Start menu.
 2. Run the following command to install Pygame:
 ```bash
 pip install pygame
 ```
 
-macOS and Linux
+*macOS and Linux*
 1. Open the terminal application.
 2. Run the following command to install Pygame:
 ```bash
@@ -91,16 +92,16 @@ Replace `main.py` with the actual filename if it's different.
 
 Repeat steps 2-5 for each project you want to run.
 
-**Note:** Some projects may have additional setup instructions or requirements mentioned in their respective README files or directories. Be sure to check those before running the game.
+**Note:** Some projects may have additional setup instructions or requirements mentioned in their respective README files. Be sure to check those before running the game.
 
 ## Credits
 
 The game projects in this repository are developed by following along with the tutorials from YouTube channel **Clear Code** by Christian Koch. His clear explanations, well-structured lessons, and practical examples have been invaluable in learning game development with Python and Pygame.
 
-Special thanks to Christian Koch for creating and sharing such high-quality educational content, which has been instrumental in the creation of these projects and the continuous improvement of my skills.
+Without the guidance provided by these tutorials, this repository would not exist. *Special thanks* to Christian Koch for creating and sharing such high-quality educational content, which has been instrumental in the creation of these projects.
 
 You can find the **Clear Code** channel and support Christian's work at: https://www.youtube.com/@ClearCode
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository as long as you include the original license file.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code in this repository as long as you include the *original license file*.
